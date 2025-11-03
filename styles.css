@@ -1,0 +1,9 @@
+dt {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+dd {
+  font-size: 20px;
+}
